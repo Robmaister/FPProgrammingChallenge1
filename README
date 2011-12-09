@@ -1,0 +1,10 @@
+This project is my attempt to complete a 5-day challenge to get 3D balls to
+roll around on a plane and be able to bounce off each other. I never got the
+original challenge completed due to time restraints and lack of knowledge in
+physics. Now I have the knowledge in physics but still lack the amount of time
+necessary to get anything done on this project. I'd still love to use F# for
+some math instead of just setting up OpenGL via OpenTK. Here is a link to the
+thread on Facepunch for reference: http://www.facepunch.com/threads/1106393
+
+                                                                -Robert Rouhani
+                                                       robert.rouhani@gmail.com
